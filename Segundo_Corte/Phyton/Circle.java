@@ -24,11 +24,11 @@ public class Circle {
     }
 
     private void area1() {
-        this.area = PI * Math.pow(radius, 2);
+        this.area = pi * Math.pow(radius, 2);
     }
 
     private void perimetro1() {
-        this.perimetro = 2 * PI * radius; 
+        this.perimetro = 2 * pi * radius; 
     }
 
     public double getArea() {
