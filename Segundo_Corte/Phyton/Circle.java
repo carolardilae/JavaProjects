@@ -2,7 +2,7 @@
 package circle;
 
 public class Circle {
-    private static final double PI = Math.PI;
+    private double pi = 3.14;
     private double diametro = 11;
     private double radius;
     private double area;
